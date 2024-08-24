@@ -7,7 +7,6 @@ const sliderData = [
   ["Khalifa", "100", 7, "#eba596", 32],
 ];
 
-//@  slider set
 export default function SliderSet() {
   return (
     <div className="">

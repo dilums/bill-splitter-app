@@ -1,6 +1,5 @@
 import { imageBase } from "../App";
 
-//@ receipt
 export const splitWith = ["1", "2", "3"];
 export default function Receipt() {
     return (

@@ -1,6 +1,5 @@
 import { ExclamationCircleIcon } from "./icons";
 
-//@ prv split
 export default function PrvSplit() {
     return (
       <div className="bg-[#373258] h-16 mt-6 custom-border flex items-center shadow-md">

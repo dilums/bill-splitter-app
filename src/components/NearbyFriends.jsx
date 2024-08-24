@@ -13,7 +13,6 @@ const recentItems = [
   { name: "Mike", image: "2" },
 ];
 
-//@ nearby friends
 export default function NearbyFriends() {
   return (
     <div className=" mt-6 rounded-3xl relative">

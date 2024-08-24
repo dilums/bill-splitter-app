@@ -1,4 +1,3 @@
-//@ screenA
 import Screen from './Screen'
 import Header from './Header'
 import TotalBill from './TotalBill'

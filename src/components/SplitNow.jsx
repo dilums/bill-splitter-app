@@ -1,6 +1,5 @@
 import { ChevronLeftIcon, EllipsisVerticalIcon } from "./icons";
 
-//@ split now
 export default function SplitNow() {
     return (
       <div className="h-20 rounded-xl flex justify-between items-center ">

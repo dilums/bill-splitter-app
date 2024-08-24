@@ -1,4 +1,3 @@
-//@ arrow
 export function ArrowIcon() {
   return (
     <div
@@ -23,7 +22,6 @@ export function ArrowIcon() {
   );
 }
 
-//@ plus icon
 export function PlusIcon({ className, strokeWidth }) {
   return (
     <svg
@@ -43,7 +41,6 @@ export function PlusIcon({ className, strokeWidth }) {
   );
 }
 
-//@ ExclamationCircleIcon
 export function ExclamationCircleIcon({ className }) {
   return (
     <svg
@@ -63,7 +60,6 @@ export function ExclamationCircleIcon({ className }) {
   );
 }
 
-//@ MagnifyingGlassIcon
 export function MagnifyingGlassIcon({ className }) {
   return (
     <svg
@@ -83,7 +79,6 @@ export function MagnifyingGlassIcon({ className }) {
   );
 }
 
-//@ ChevronLeftIcon
 export function ChevronLeftIcon({ className }) {
   return (
     <>
@@ -105,7 +100,6 @@ export function ChevronLeftIcon({ className }) {
   );
 }
 
-//@ EllipsisVerticalIcon
 export function EllipsisVerticalIcon() {
   return (
     <svg

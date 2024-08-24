@@ -2,7 +2,6 @@ import { imageBase } from "../App";
 import { PlusIcon } from "./icons";
 import { splitWith } from "./Receipt";
 
-//@ total bill
 export default function TotalBill() {
     return (
       <div className="bg-[#edc08c]  custom-border mt-6 flex p-6 shadow-md">

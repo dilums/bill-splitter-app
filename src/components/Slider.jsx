@@ -3,7 +3,6 @@ const ticks = Array(16)
   .fill(0)
   .map((i, j) => j);
 
-//@ slider
 export default function Slider({ color, value: initValue }) {
     const [value, setValue] = useState(initValue);
   

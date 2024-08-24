@@ -1,6 +1,5 @@
 import { imageBase } from "../App";
 
-//@ header
 export default function Header() {
   return (
     <div className="flex justify-between mt-3">

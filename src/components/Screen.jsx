@@ -1,4 +1,3 @@
-//@ screen
 export default function Screen({ children, className }) {
     return (
       <>

@@ -1,6 +1,5 @@
 import { ArrowIcon } from "./icons";
 
-//@ confirm button
 export default function ConfirmButton() {
   return (
     <div className="bg-[#373258] mt-6 rounded-full p-2 flex items-center blue-shadow-inner">
